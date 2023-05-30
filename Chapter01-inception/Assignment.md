@@ -20,9 +20,9 @@
 
 #### What is async and defer?
 
-## Coding -
-
 #
+
+## Coding -
 
 #### Set up all the tools in your laptop
 
@@ -58,5 +58,6 @@
 
 ## References:
 
-https://beta.reactjs.org/apis/react/createElement
-https://www.youtube.com/watch?v=IrHmpdORLu8
+### https://beta.reactjs.org/apis/react/createElement
+
+### https://www.youtube.com/watch?v=IrHmpdORLu8
