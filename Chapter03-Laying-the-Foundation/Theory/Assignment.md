@@ -17,4 +17,4 @@ It is a useful attribute when we want to import or export something from the js 
 - `{<Titlecomponent><TitleComponent/>}` = It is also a different way to call any component,but we use this syntax when we have to pass some child element of that component.
 
 ## NOTE: what is `component composition`? 
-`Component composition` is the name for passing components as props to other component is known as `component composition`.
+  passing components as props to other component is known as `component composition`.
